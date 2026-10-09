@@ -1,6 +1,6 @@
 # Factor Models and Performance Measurement: Hedge Fund Strategy Indexes
 
-Homework 2 for *Quantitative Methods in Investment Management* (Columbia University, Fall 2026).
+Analysis for *Quantitative Methods in Investment Management* (Columbia University, Fall 2026).
 
 The project evaluates nine Dow Jones Credit Suisse hedge fund strategy indexes over January 1994 to June 2012 (222 monthly observations), using the Fama-French and Carhart factors.
 
